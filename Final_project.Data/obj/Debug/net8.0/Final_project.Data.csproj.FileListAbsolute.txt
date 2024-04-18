@@ -1,0 +1,13 @@
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\bin\Debug\net8.0\Final_project.Data.deps.json
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\bin\Debug\net8.0\Final_project.Data.dll
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\bin\Debug\net8.0\Final_project.Data.pdb
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\obj\Debug\net8.0\Final_project.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\obj\Debug\net8.0\Final_project.Data.AssemblyInfoInputs.cache
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\obj\Debug\net8.0\Final_project.Data.AssemblyInfo.cs
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\obj\Debug\net8.0\Final_project.Data.csproj.CoreCompileInputs.cache
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\obj\Debug\net8.0\Final_project.Data.sourcelink.json
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\obj\Debug\net8.0\Final_project.Data.dll
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\obj\Debug\net8.0\refint\Final_project.Data.dll
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\obj\Debug\net8.0\Final_project.Data.pdb
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\obj\Debug\net8.0\ref\Final_project.Data.dll
+C:\Users\Coding\RiderProjects\final_projectR\Final_project.Data\obj\Debug\net8.0\Final_project.Data.csproj.AssemblyReference.cache
